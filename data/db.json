@@ -2,7 +2,7 @@
   "users": [
     {
       "id": "1",
-      "todoListTitle": "Goals for today",
+      "todoListTitle": "Today",
       "email": "david@example.com",
       "username": "david",
       "password": "123456",
