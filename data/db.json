@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "todoListTitle": "Goals for today",
+      "email": "david@example.com",
+      "username": "david",
+      "password": "123456",
+      "todolist": [
+        {
+          "id": "a",
+          "item": "Eat",
+          "done": true
+        },
+        {
+          "id": "b",
+          "item": "clean house",
+          "done": true
+        },
+        {
+          "id": "c",
+          "item": "water plants",
+          "done": false
+        },
+        {
+          "id": "d",
+          "item": "study",
+          "done": true
+        }
+      ]
+    }
+  ]
+}
