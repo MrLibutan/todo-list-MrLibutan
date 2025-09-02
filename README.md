@@ -1,12 +1,24 @@
-# React + Vite
+# TodoList App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+A basic TodoList application built with ReactJS, Material UI, TanStack Query, and JSON Server (used as a dummy backend).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Note
 
-## Expanding the ESLint configuration
+Some CRUD operations are still not implemented.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## How to Use
+
+1. Install dependencies  
+   npm i
+
+2. Start the dummy server  
+   npm run server
+
+3. Start the development server  
+   npm run dev
+
+## Additional Information
+
+Since there is no signup feature, you can manually add entries to `data/db.json`.
